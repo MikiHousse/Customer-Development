@@ -1,0 +1,25 @@
+// font-family: 'Montserrat', sans-serif;
+.page {
+    margin: 0;
+    min-width: 1440px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #636363;
+}
+
+.container {
+    width: 1160px;
+    margin: 0 auto;
+}
+
+.nav-bar {
+    display: flex;
+    margin-top: 44px;
+        &-list {
+            margin: 0;
+            display: flex;
+        }
+
+}
